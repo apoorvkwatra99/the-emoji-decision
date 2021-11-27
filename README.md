@@ -6,7 +6,7 @@ This Buildspace project runs on the Rinkeby Test Network. A Metamask wallet with
 
 # Backend
 
-The backend folder is where all the smart contract code lives. `EmojiDecision.sol` contains the contract `EmojiDecision` and has several helper functions. Some were only used as Solidity practice and are not actually used in the final project. The `run.js` script was mainly used for testing, and the `deploy.js` script was used to actually deploy the contract.
+The backend folder is where all the smart contract code lives. `contracts/EmojiDecision.sol` contains the contract `EmojiDecision` and has several helper functions. Some were only used as Solidity practice and are not actually used in the final project. The `scripts/run.js` script was mainly used for testing, and the `scripts/deploy.js` script was used to actually deploy the contract.
 
 # Frontend
 
