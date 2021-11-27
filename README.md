@@ -2,7 +2,7 @@
 
 The project can be viewed here: https://the-emoji-decision.apoorvk.repl.co/
 
-This Buildspace project runs on the Rinkeby Test Network. A Metamask wallet with some Ethereum on this test network is all that is needed to test it out! Once a user clicks they link, they can connect their Metamask wallet and then vote for their favorite emoji between the two options. Upon the vote being mined, the current winner will be revealed, and the log of previous votes will be updated with the new vote. 10% of the time someone votes, they will receive a small amount of Ethereum (on the test network) as a prize. Because of this, users can only vote once every five minutes.
+This Buildspace project runs on the Rinkeby Test Network. A Metamask wallet with some Ethereum on this test network is all that is needed to test it out! Once a user clicks the link, they can connect their Metamask wallet and then vote for their favorite emoji between the two options. Upon the vote being mined, the current winner will be revealed, and the log of previous votes will be updated with the new vote. 10% of the time someone votes, they will receive a small amount of Ethereum (on the test network) as a prize. Because of this, users can only vote once every five minutes.
 
 # Backend
 
