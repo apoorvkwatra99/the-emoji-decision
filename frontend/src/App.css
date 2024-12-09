@@ -1,0 +1,79 @@
+.mainContainer {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  margin-top: 64px;
+}
+
+.dataContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  max-width: 600px;
+}
+
+.header {
+  text-align: center;
+  font-size: 32px;
+  font-weight: 600;
+  margin-bottom: 2%;
+}
+
+.bio {
+  text-align: center;
+  color: gray;
+}
+
+.emojiButtons button {
+  width: 45%;
+  margin: 2.5%;
+  cursor: pointer;
+  display: inline-block;
+  justify-content: center;
+  padding: 8px;
+  border: 0;
+  border-radius: 5px;
+  font-size: 48px;
+}
+
+.emojiButtons button:hover {
+  background-color: lightgray;
+}
+
+.connectButton button {
+  width: 95%;
+  margin: 2.5%;
+  cursor: pointer;
+  display: inline-block;
+  justify-content: center;
+  padding: 8px;
+  border: 0;
+  border-radius: 5px;
+  font-size: 20px;
+}
+
+.connectButton button:hover {
+  background-color: lightgray;
+}
+
+.messageBox input {
+  width: 98.5%;
+  margin-top: 2.5%;
+  display: inline-block;
+  justify-content: center;
+}
+
+.currentWinner {
+  width: 100%;
+}
+
+.footer-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  width: 100%;
+  bottom: 0;
+  left: 0;
+  padding-bottom: 45px;
+}
